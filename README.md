@@ -7,14 +7,12 @@
 <img src = "logo.png"></img>
 </div>
 
-<h1 align="center">Sakib Bhuiyan</h1>
-
 <div align="left">
     <blockquote>
         Dedicated data scientist, passionate data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
     </blockquote>
 </div>
-
+<br>
 <div align = "center" dir = "auto">
     <h3> 
         <code> preferred_tools </code> 
