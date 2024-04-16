@@ -1,10 +1,14 @@
-<h1 align="center" style = "color: #BCD3F2">Sakib Bhuiyan</h1>
+<h1 align="center">Sakib Bhuiyan</h1>
 
-Dedicated data scientist, enthusiastic data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in the world of baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
+<div align="left">
+    <blockquote>
+        Dedicated data scientist, enthusiastic data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in the world of baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
+    </blockquote>
+</div>
 
 <div align = "center" dir = "auto">
     <h3> 
-        <code style = "color: #BCD3F2"> preferred_tools </code> 
+        <code> preferred_tools </code> 
     </h3>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
