@@ -9,7 +9,7 @@
 
 <div align="left">
     <blockquote>
-        Dedicated data scientist, passionate data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
+        Devoted husband, dedicated data scientist, passionate data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
     </blockquote>
 </div>
 <br>
@@ -17,9 +17,6 @@
     <h3> 
         <code> preferred_tools </code> 
     </h3>
-
-    
-
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/80A4ED" alt="python" width="65" height="65" hspace=10/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pandas/80A4ED" alt="pandas" width="65" height="65" hspace=10 hspace=10/> </a> <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/plotly/80A4ED" alt="plotly" width="65" height="65" hspace=10/> </a> <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/numpy/80A4ED" alt="numpy" width="65" height="65" hspace=10/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/scikitlearn/80A4ED" alt="scikit_learn" width="65" height="65" hspace=10/></a> 
 
@@ -29,26 +26,11 @@
 
 <a href="https://www.snowflake.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/snowflake/80A4ED" alt="snowflake" width="65" height="65" hspace=10/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postgresql/80A4ED" alt="postgresql" width="65" height="65" hspace=10/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/oracle/80A4ED" alt="oracle" width="65" height="65" hspace=10/> </a><a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachespark/80A4ED" alt="apache_spark" width="65" height="65" hspace=10/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachehadoop/80A4ED" alt="apache_hadoop" width="65" height="65" hspace=10/> </a> 
 
-
-
-
-
-<!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="65" height="65" hspace=10/> </a> -->
-<!-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="65" height="65" hspace=10/> </a>  -->
-<!-- <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="65" height="65" hspace=10/></a>  -->
-<!-- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65" hspace=10/> </a>  -->
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65" hspace=10/> </a>  -->
-<!-- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="65" height="65" hspace=10/> </a> -->
-<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="65" height="65" hspace=10/> </a>  -->
-<!-- <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="65" height="65" hspace=10/> </a> 
-
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="65" height="65" hspace=10/> </a>  -->
-
 </div>
 
 <br>
 
-<div align = "center" dir = "auto">
+<div align="center" dir = "auto">
     <h3> 
         <code>currently_learning </code>
     </h3> 
@@ -74,6 +56,5 @@
         October 2022 to Present
 </ul>
 </blockquote>
-
 
 </div>
