@@ -1,6 +1,6 @@
 <div align="right">
 <a href="https://linkedin.com/in/sakib-bhuiyan" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/80A4ED" alt="sakib-bhuiyan" height="25" width="25" /></a>
-<a href="https://twitter.com/SakibKBhuiyan" target="blank"><img align="center" src="https://cdn.simpleicons.org/twitter/80A4ED" alt="sakib-bhuiyan" height="25" width="25" /></a>
+<a href="https://twitter.com/SakibKBhuiyan" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/80A4ED" alt="sakib-bhuiyan" height="25" width="25" /></a>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/python/80A4ED" alt="python" width="65" height="65" hspace=10/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/pandas/80A4ED" alt="pandas" width="65" height="65" hspace=10 hspace=10/> </a> <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/plotly/80A4ED" alt="plotly" width="65" height="65" hspace=10/> </a> <a href="https://numpy.org/doc/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/numpy/80A4ED" alt="numpy" width="65" height="65" hspace=10/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/scikitlearn/80A4ED" alt="scikit_learn" width="65" height="65" hspace=10/></a> 
 
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tensorflow/80A4ED" alt="tensor_flow" width="65" height="65" hspace=10/></a>   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/r/80A4ED" alt="r" width="65" height="65" hspace=10/></a>  <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tidyverse/80A4ED" alt="tidy_verse" width="65" height="65" hspace=10/></a> <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/rstudio/80A4ED" alt="r_studio" width="65" height="65" hspace=10/></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jupyter/80A4ED" alt="jupyter" width="65" height="65" hspace=10/></a> 
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tensorflow/80A4ED" alt="tensor_flow" width="65" height="65" hspace=10/></a>   <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/r/80A4ED" alt="r" width="65" height="65" hspace=10/></a>  <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tidyverse/80A4ED" alt="tidy_verse" width="65" height="65" hspace=10/></a> <a href="https://posit.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/posit/80A4ED" alt="r_studio_posit" width="65" height="65" hspace=10/></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/jupyter/80A4ED" alt="jupyter" width="65" height="65" hspace=10/></a> 
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/80A4ED" alt="visual_studio_code" width="65" height="65" hspace=10/></a> <a href="https://lookerstudio.google.com/u/0/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/tableau/80A4ED" alt="looker" width="65" height="65" hspace=10/></a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/looker/80A4ED" alt="tableau" width="65" height="65" hspace=10/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/git/80A4ED" alt="git" width="65" height="65" hspace=10/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/80A4ED" alt="mongodb" width="65" height="65" hspace=10/> </a>
 
@@ -49,8 +49,8 @@
 <blockquote align="left">
 <ul>
     <li>
-        Pricing Science <a href="https://www.mlb.com/cubs">@ChicagoCubs</a> <br>
-        February 2022 to Present
+        Data Scientist <a href="https://www.deltafaucetcompany.com/">@DeltaFaucetCompany</a> <br>
+        June 2024 to Present
     <li>
         Instructor <a href="https://www.northwestern.edu/">@NorthwesternUniversity</a> Data Science Bootcamp <br>
         October 2022 to Present
