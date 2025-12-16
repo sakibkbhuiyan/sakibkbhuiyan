@@ -8,7 +8,7 @@
 
 <div align="left">
     <blockquote>
-        Devoted husband, dedicated data scientist, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
+        Devoted husband, dedicated data scientist, and fervent machine learning enthusiast with a passion for turning complex data into meaningful insights. When I’m not working with data, you’ll likely find me immersed in baseball, cheering for my favorite teams, or spending time in the studio making pottery. Welcome to my GitHub profile, where analytical work lives alongside the interests that keep me curious and creative.
     </blockquote>
 </div>
 <br>
