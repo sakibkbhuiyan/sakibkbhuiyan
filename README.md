@@ -8,7 +8,7 @@
 
 <div align="left">
     <blockquote>
-        Devoted husband, dedicated data scientist, passionate data science instructor, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets or teaching others the wonders of data science, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
+        Devoted husband, dedicated data scientist, and fervent machine learning enthusiast. With a passion for unraveling the complexities of data, I thrive on turning raw information into meaningful insights. When I'm not diving into datasets, you'll likely find me immersed in baseball, analyzing stats, and cheering for my favorite teams. Welcome to my GitHub profile, where data-driven discoveries meet a love for sports!
     </blockquote>
 </div>
 <br>
@@ -50,7 +50,7 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/postgresql/80A4ED" alt="postgresql" width="65" height="65" hspace=10></a> 
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachespark/80A4ED" alt="apache_spark" width="65" height="65" hspace=10></a> 
     <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/apachehadoop/80A4ED" alt="apache_hadoop" width="65" height="65" hspace=10></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mongodb/80A4ED" alt="mongodb" width="65" height="65" hspace=10></a>
+    <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/80A4ED" alt="langchain" width="65" height="65" hspace=10></a>
 </div>
 
 </div>
@@ -67,7 +67,7 @@
     <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/julia/80A4ED" alt="julia" width="65" height="65" hspace=1></a> 
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/figma/80A4ED" alt="figma" width="65" height="65" hspace=10></a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/html5/80A4ED" alt="html5" width="65" height="65" hspace=10></a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css3/80A4ED" alt="css3" width="65" height="65" hspace=10></a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/css/80a4ed" alt="css3" width="65" height="65" hspace=10></a> 
 </div>
 
 
@@ -85,9 +85,6 @@
     <li>
         Data Scientist <a href="https://www.deltafaucetcompany.com/">@DeltaFaucetCompany</a> <br>
         June 2024 to Present
-    <li>
-        Instructor <a href="https://www.northwestern.edu/">@NorthwesternUniversity</a> Data Science Bootcamp <br>
-        October 2022 to Present
 </ul>
 </blockquote>
 
