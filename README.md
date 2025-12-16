@@ -1,6 +1,6 @@
-<div align="right">
+<!-- <div align="right">
 <a href="https://linkedin.com/in/sakib-bhuiyan" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin" alt="sakib-bhuiyan" height="25" width="25" /></a>
-</div>
+</div> -->
 
 <div align="center">
 <img src = "logo.png"></img>
