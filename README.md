@@ -81,11 +81,12 @@
     </h3>  
 
 <blockquote align="left">
-<ul>
-    <li>
+<!-- <ul> -->
+    <!-- <li> -->
         Data Scientist <a href="https://www.deltafaucetcompany.com/">@DeltaFaucetCompany</a> <br>
         June 2024 to Present
-</ul>
+    <!-- </li> -->
+<!-- </ul> -->
 </blockquote>
 
 </div>
